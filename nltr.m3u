@@ -1,0 +1,165 @@
+#EXTM3U
+#EXTINF:-1,TR │ KANAL D HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/66
+#EXTINF:-1,TR │ STAR HD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/69
+#EXTINF:-1,TR │ FOX HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/72
+#EXTINF:-1,TR │ TV 8 HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/74
+#EXTINF:-1,TR │ KANAL 7 HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/83
+#EXTINF:-1,TR │ BEYAZ HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/87
+#EXTINF:-1,TR │ A2 HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/89
+#EXTINF:-1,TR │ CEM TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/104
+#EXTINF:-1,TR │ CAN TV HD
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/105
+#EXTINF:-1,TR │ YOL TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/107
+#EXTINF:-1,TR │ TV 5
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/113
+#EXTINF:-1,TR │ NTV HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/128
+#EXTINF:-1,TR │ CNN TÜRK HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/129
+#EXTINF:-1,TR │ HABER TÜRK HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/130
+#EXTINF:-1,TR │ 24 HABER HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/134
+#EXTINF:-1,TR │ KRT HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/135
+#EXTINF:-1,TR │ TV 100 HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/136
+#EXTINF:-1,TR │ HABER GLOBAL HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/137
+#EXTINF:-1,TR │ ARTI TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/139
+#EXTINF:-1,TR │ TELE 1
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/140
+#EXTINF:-1,TR │ HALK TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/141
+#EXTINF:-1,TR │ ULUSAL KANAL
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/142
+#EXTINF:-1,TR │ BLOOMBERG HT HD+
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/151
+#EXTINF:-1,TR │ EKO TÜRK TV
+http://163.172.39.215:25461/line/C4@!a3a1@!w72A/152
+#EXTINF:-1,---------- Dutch TV ----------
+http://bb1.sendevric.com:8000/live/jean/jean123/5368.ts
+#EXTINF:-1,NL - NPO 1 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5347.ts
+#EXTINF:-1,NL - NPO 1 HD (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9111.ts
+#EXTINF:-1,NL - NPO 2 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5348.ts
+#EXTINF:-1,NL - NPO 2 HD (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9112.ts
+#EXTINF:-1,NL - NPO 3 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5349.ts
+#EXTINF:-1,NL - NPO 3 HD (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9113.ts
+#EXTINF:-1,NL - RTL Crime
+http://bb1.sendevric.com:8000/live/jean/jean123/5357.ts
+#EXTINF:-1,NL - RTL Crime (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9114.ts
+#EXTINF:-1,NL - RTL 4 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5350.ts
+#EXTINF:-1,NL - RTL 4 HD (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9115.ts
+#EXTINF:-1,NL - RTL 5 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5351.ts
+#EXTINF:-1,NL - RTL 5 HD (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9116.ts
+#EXTINF:-1,NL - SBS 6 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5352.ts
+#EXTINF:-1,NL - SBS 6 HD (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9117.ts
+#EXTINF:-1,NL - RTL 7 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5353.ts
+#EXTINF:-1,NL - RTL 7 HD (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9118.ts
+#EXTINF:-1,NL - RTL 8 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5354.ts
+#EXTINF:-1,NL - RTL 8 HD (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9119.ts
+#EXTINF:-1,NL - SBS 9 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5355.ts
+#EXTINF:-1,NL - SBS 9 HD (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9120.ts
+#EXTINF:-1,NL - NET 5 HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5356.ts
+#EXTINF:-1,NL - NET 5 HD (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9121.ts
+#EXTINF:-1,NL - Fox Channel
+http://bb1.sendevric.com:8000/live/jean/jean123/5358.ts
+#EXTINF:-1,NL - Fox Channel (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9122.ts
+#EXTINF:-1,NL - Animal Planet
+http://bb1.sendevric.com:8000/live/jean/jean123/5364.ts
+#EXTINF:-1,NL - Animal Planet (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9123.ts
+#EXTINF:-1,NL - Discovery Channel HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5365.ts
+#EXTINF:-1,NL - Discovery Channel HD (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9124.ts
+#EXTINF:-1,NL - Crime & Investigation
+http://bb1.sendevric.com:8000/live/jean/jean123/5366.ts
+#EXTINF:-1,NL - Crime & Investigation (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9125.ts
+#EXTINF:-1,NL - Disney Channel HD
+http://bb1.sendevric.com:8000/live/jean/jean123/5361.ts
+#EXTINF:-1,NL - Disney Channel HD (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9126.ts
+#EXTINF:-1,NL - Disney Junior
+http://bb1.sendevric.com:8000/live/jean/jean123/5359.ts
+#EXTINF:-1,NL - Disney Junior (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9127.ts
+#EXTINF:-1,NL - Boomerang
+http://bb1.sendevric.com:8000/live/jean/jean123/5360.ts
+#EXTINF:-1,NL - Nick Jr
+http://bb1.sendevric.com:8000/live/jean/jean123/5362.ts
+#EXTINF:-1,NL - Nick Jr (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9128.ts
+#EXTINF:-1,NL - JimJam
+http://bb1.sendevric.com:8000/live/jean/jean123/5363.ts
+#EXTINF:-1,NL - Jimjam (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9129.ts
+#EXTINF:-1,NL - Fox Sports 1
+http://bb1.sendevric.com:8000/live/jean/jean123/1484.ts
+#EXTINF:-1,NL - Fox Sports 1 (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9130.ts
+#EXTINF:-1,NL - Fox Sports 2
+http://bb1.sendevric.com:8000/live/jean/jean123/1485.ts
+#EXTINF:-1,NL - Fox Sports 2 (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9131.ts
+#EXTINF:-1,NL - Fox Sports 3
+http://bb1.sendevric.com:8000/live/jean/jean123/1486.ts
+#EXTINF:-1,NL - Fox Sports 3 (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9132.ts
+#EXTINF:-1,NL - Fox Sports 4
+http://bb1.sendevric.com:8000/live/jean/jean123/1487.ts
+#EXTINF:-1,NL - Fox Sports 4 (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9133.ts
+#EXTINF:-1,NL - Fox Sports 5
+http://bb1.sendevric.com:8000/live/jean/jean123/1488.ts
+#EXTINF:-1,NL - Fox Sports 5 (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9134.ts
+#EXTINF:-1,NL - Fox Sports 6
+http://bb1.sendevric.com:8000/live/jean/jean123/629.ts
+#EXTINF:-1,NL - Fox Sports 6 (B)
+http://bb1.sendevric.com:8000/live/jean/jean123/9135.ts
+#EXTINF:-1,NL - Sport 1 Select
+http://bb1.sendevric.com:8000/live/jean/jean123/631.ts
+#EXTINF:-1,NL - Edge Sport
+http://bb1.sendevric.com:8000/live/jean/jean123/9137.ts
+#EXTINF:-1,NL - Eurosport
+http://bb1.sendevric.com:8000/live/jean/jean123/9136.ts
+#EXTINF:-1,NL - Ziggo Sport eXtra 1
+http://bb1.sendevric.com:8000/live/jean/jean123/9138.ts
+#EXTINF:-1,NL - Ziggo Sport eXtra 2
+http://bb1.sendevric.com:8000/live/jean/jean123/9139.ts
+#EXTINF:-1,NL - Ziggo Sport Racing
+http://bb1.sendevric.com:8000/live/jean/jean123/9140.ts
